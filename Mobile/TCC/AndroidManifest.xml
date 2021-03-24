@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.tcc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="br.com.tcc.TccActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.tcc.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.RecargaActivity"
+            android:label="@string/title_activity_recarga"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.HorariosActivity"
+            android:label="@string/title_activity_horarios"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.EfetuarRecargaActivity"
+            android:label="@string/title_activity_efetuar_recarga"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.CadastroActivity"
+            android:label="@string/title_activity_cadastro"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.DialogCardActivity"
+            android:label="@string/title_activity_dialog_card"
+            android:theme="@android:style/Theme.Holo.Dialog.NoActionBar" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.RotasActivity"
+            android:label="@string/title_activity_rotas" >
+        </activity>
+        <activity
+            android:name="br.com.tcc.MapaActivity"
+            android:label="@string/title_activity_mapa" >
+        </activity>
+    </application>
+
+</manifest>

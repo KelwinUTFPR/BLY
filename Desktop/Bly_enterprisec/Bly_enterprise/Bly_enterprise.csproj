@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6DE519A8-A841-46D0-A325-810A705547FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bly_enterprise</RootNamespace>
+    <AssemblyName>Bly_enterprise</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexao.cs" />
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MenOk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MenOk.Designer.cs">
+      <DependentUpon>frm_MenOk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MenSalvar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MenSalvar.Designer.cs">
+      <DependentUpon>frm_MenSalvar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.Designer.cs">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_senha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_senha.Designer.cs">
+      <DependentUpon>frm_senha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_table.Designer.cs">
+      <DependentUpon>frm_table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Orientacao.cs" />
+    <Compile Include="TelaBusAlter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaBusAlter.Designer.cs">
+      <DependentUpon>TelaBusAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaBusCad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaBusCad.Designer.cs">
+      <DependentUpon>TelaBusCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaBusDel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaBusDel.Designer.cs">
+      <DependentUpon>TelaBusDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaConsultaRota.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaConsultaRota.Designer.cs">
+      <DependentUpon>TelaConsultaRota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaConsultarSaldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaConsultarSaldo.Designer.cs">
+      <DependentUpon>TelaConsultarSaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaConsultaUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaConsultaUsuario.Designer.cs">
+      <DependentUpon>TelaConsultaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaContaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaContaControl.Designer.cs">
+      <DependentUpon>TelaContaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaHomeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaHomeControl.Designer.cs">
+      <DependentUpon>TelaHomeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaCadastroControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaCadastroControl.Designer.cs">
+      <DependentUpon>TelaCadastroControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaLoginAlter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaLoginAlter.Designer.cs">
+      <DependentUpon>TelaLoginAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaLoginCad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaLoginCad.Designer.cs">
+      <DependentUpon>TelaLoginCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaLoginDel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaLoginDel.Designer.cs">
+      <DependentUpon>TelaLoginDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaMapaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaMapaControl.Designer.cs">
+      <DependentUpon>TelaMapaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaRotAlter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaRotAlter.Designer.cs">
+      <DependentUpon>TelaRotAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaRotCad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaRotCad.Designer.cs">
+      <DependentUpon>TelaRotCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaRotDel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaRotDel.Designer.cs">
+      <DependentUpon>TelaRotDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaSaldoAlter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaSaldoAlter.Designer.cs">
+      <DependentUpon>TelaSaldoAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaSaldoCad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaSaldoCad.Designer.cs">
+      <DependentUpon>TelaSaldoCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaSaldoDel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaSaldoDel.Designer.cs">
+      <DependentUpon>TelaSaldoDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaUsuarioAlter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaUsuarioAlter.Designer.cs">
+      <DependentUpon>TelaUsuarioAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaUsuarioCad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaUsuarioCad.Designer.cs">
+      <DependentUpon>TelaUsuarioCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaUsuarioDel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TelaUsuarioDel.Designer.cs">
+      <DependentUpon>TelaUsuarioDel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MenOk.resx">
+      <DependentUpon>frm_MenOk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MenSalvar.resx">
+      <DependentUpon>frm_MenSalvar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_senha.resx">
+      <DependentUpon>frm_senha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_table.resx">
+      <DependentUpon>frm_table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TelaBusAlter.resx">
+      <DependentUpon>TelaBusAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaBusCad.resx">
+      <DependentUpon>TelaBusCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaBusDel.resx">
+      <DependentUpon>TelaBusDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaCadastroControl.resx">
+      <DependentUpon>TelaCadastroControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaConsultaRota.resx">
+      <DependentUpon>TelaConsultaRota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaConsultarSaldo.resx">
+      <DependentUpon>TelaConsultarSaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaConsultaUsuario.resx">
+      <DependentUpon>TelaConsultaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaContaControl.resx">
+      <DependentUpon>TelaContaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaHomeControl.resx">
+      <DependentUpon>TelaHomeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaLoginAlter.resx">
+      <DependentUpon>TelaLoginAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaLoginCad.resx">
+      <DependentUpon>TelaLoginCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaLoginDel.resx">
+      <DependentUpon>TelaLoginDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaMapaControl.resx">
+      <DependentUpon>TelaMapaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaRotAlter.resx">
+      <DependentUpon>TelaRotAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaRotCad.resx">
+      <DependentUpon>TelaRotCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaRotDel.resx">
+      <DependentUpon>TelaRotDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaSaldoAlter.resx">
+      <DependentUpon>TelaSaldoAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaSaldoCad.resx">
+      <DependentUpon>TelaSaldoCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaSaldoDel.resx">
+      <DependentUpon>TelaSaldoDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaUsuarioAlter.resx">
+      <DependentUpon>TelaUsuarioAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaUsuarioCad.resx">
+      <DependentUpon>TelaUsuarioCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaUsuarioDel.resx">
+      <DependentUpon>TelaUsuarioDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

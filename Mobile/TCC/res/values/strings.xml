@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">B L Y</string>
+    <string name="action_settings">Settings</string>
+    <string name="perfil">NomeUsuário</string>
+    <string name="configs">Config.</string>
+    <string name="horarios">Horarios</string>
+    <string name="rotas">Rotas</string>
+    <string name="recarga">Recarga</string>
+    <string name="qrcode">QR</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="csenha">Confirmar senha</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="title_activity_recarga">RecargaActivity</string>
+    <string name="seusaldo">Seu saldo atual é:</string>
+    <string name="saldo">00.0 R$</string>
+    <string name="recarregar">RECARREGAR</string>
+    <string name="title_activity_horarios">HorariosActivity</string>
+    <string name="hora1">5:10</string>
+    <string name="hora2">5:30</string>
+    <string name="hora3">06:30</string>
+    <string name="hora4">5:20</string>
+    <string name="hora5">4:20</string>
+    <string name="local1">Registro</string>
+    <string name="local2">Cajati</string>
+    <string name="destino">Escolha o destino para onde será usado:</string>
+    <string name="title_activity_efetuar_recarga">EfetuarRecargaActivity</string>
+    <string name="valor">Digite o valor da recarga:</string>
+    <string name="boleto"></string>
+    <string name="cartao"></string>
+    <string name="pagamento">Forma de pagamento:</string>
+    <string name="efetuar">EFETUAR RECARGA</string>
+    <string name="erro"></string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_dialog_card">DialogCardActivity</string>
+    <string name="titular">Nome do titular do cartão</string>
+    <string name="cpf">CPF do titular do cartão</string>
+    <string name="numero">Número do cartão</string>
+    <string name="expiracao">Data de expiração (Mês/Ano)</string>
+    <string name="codseg">Código de Segurança</string>
+    <string name="ok">OK</string>
+    <string name="cadastro">Cadastre-se aqui</string>
+    <string name="title_activity_rotas">RotasActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+
+</resources>

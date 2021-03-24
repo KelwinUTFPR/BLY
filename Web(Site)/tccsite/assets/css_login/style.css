@@ -1,0 +1,62 @@
+.color{
+background:#23242e;
+}
+.txtEmail{
+width:475px;
+height:35px;
+border-radius:5px;
+border:Solid 1px;
+border-color:#D3D3D3;
+margin-top:8px;
+margin-bottom:10px;
+}
+.txtSenha{
+
+width:475px;
+height:35px;
+border-radius:5px;
+border:Solid 1px;
+border-color:#D3D3D3;
+margin-top:8px;
+margin-bottom:8px;
+}
+
+.lblEspaco a {
+margin-left:165px;
+
+}
+.btnEntrar{
+color:#FFFFFF;
+background:#28A745;
+margin-top:10px;
+}
+
+.admin{
+  border-radius:1000px;
+  width:150px;
+
+}
+.circle { 
+  width: 150px; 
+  height: 150px; 
+   background-size:185px;
+  background-repeat: no-repeat;
+  -moz-border-radius: 100px; 
+  -webkit-border-radius: 100px; 
+  border-radius: 100px; 
+  margin-left:170px;
+}
+
+.invalido {
+background:#ff9383;
+width:100%;
+height:50px;
+Text-transform:none;
+
+}
+.invalido  p {
+color :#882e44;
+size:20px;
+}
+
+

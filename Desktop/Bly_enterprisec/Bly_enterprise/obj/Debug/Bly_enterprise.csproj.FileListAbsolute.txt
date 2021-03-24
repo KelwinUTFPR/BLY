@@ -1,0 +1,180 @@
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_login.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_principal.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_table.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.Properties.Resources.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaCadastroControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaContaControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaHomeControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.csproj.GenerateResource.Cache
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.exe
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.pdb
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\MySql.Data.dll
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.csprojResolveAssemblyReference.cache
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaMapaControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_login.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_principal.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_table.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaCadastroControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaContaControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaHomeControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaMapaControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.csprojResolveAssemblyReference.cache
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_senha.resources
+D:\Bly_enterprise\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+D:\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+D:\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenSalvar.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprise\Bly_enterprise\obj\Debug\Bly_enterprise.frm_senha.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_login.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenSalvar.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_principal.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_senha.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_table.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaCadastroControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaContaControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaHomeControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaMapaControl.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioAlter.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioCad.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioDel.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenOk.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultaUsuario.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.pdb
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\MySql.Data.dll
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.csprojResolveAssemblyReference.cache
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_login.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenOk.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenSalvar.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_principal.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_senha.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_table.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.Properties.Resources.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaCadastroControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultaUsuario.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaContaControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaHomeControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaMapaControl.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioAlter.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioCad.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioDel.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultaRota.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultarSaldo.resources
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.csprojResolveAssemblyReference.cache
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultaRota.resources
+C:\Users\etim3-info\Documents\Visual Studio 2015\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultarSaldo.resources
+D:\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
+D:\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe
+D:\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.pdb
+D:\Bly_enterprisec\Bly_enterprise\bin\Debug\MySql.Data.dll
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.csprojResolveAssemblyReference.cache
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_login.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenOk.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_MenSalvar.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_principal.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_senha.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.frm_table.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.Properties.Resources.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusAlter.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusCad.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaBusDel.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaCadastroControl.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultaRota.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultarSaldo.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaConsultaUsuario.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaContaControl.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaHomeControl.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginAlter.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginCad.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaLoginDel.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaMapaControl.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotAlter.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotCad.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaRotDel.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoAlter.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoCad.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaSaldoDel.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioAlter.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioCad.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.TelaUsuarioDel.resources
+D:\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.csproj.GenerateResource.Cache
+C:\Users\kelwi\OneDrive\Documentos\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\bin\Debug\Bly_enterprise.exe.config
+C:\Users\kelwi\OneDrive\Documentos\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.exe
+C:\Users\kelwi\OneDrive\Documentos\Visual Studio 2013\Projects\Bly_enterprisec\Bly_enterprise\obj\Debug\Bly_enterprise.pdb
